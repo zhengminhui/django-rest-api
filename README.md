@@ -1,1 +1,1 @@
-# python-django-api
+# django-rest-api
